@@ -112,7 +112,7 @@ Name: [Holger Dörner](https://github.com/HolgerDoerner)
 Place: Germany
 
 Name: [Manognya Dasika](https://github.com/manognyaa)
-Place: Vijayawada, India
+Place: India
 
 Name: [Shashwat](https://github.com/gitshashwat)
 Place: India
@@ -137,3 +137,10 @@ Place: Pune, India
 
 Name: [Syamala Dasika](https://github.com/syamala27)
 Place: India
+
+Name: [Aravind S](https://github.com/aravinds-arv)
+Place: Kerala, India
+
+Name: [Tommaso Crippa](https://github.com/Crippius)
+Place: Italy
+
